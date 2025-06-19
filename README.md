@@ -36,3 +36,10 @@ Install requirements with:
 ```bash
 pip install torch transformers pandas
 ```
+⚠️ **Disclaimer**
+
+This project was created for learning purposes and may contain code generated with the assistance of GitHub Copilot.
+
+No license is granted for reuse or redistribution.  
+If you wish to use any part of this code, please contact the author or verify the original sources and licensing yourself.
+
