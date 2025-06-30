@@ -4,8 +4,7 @@ This project provides a full pipeline for sentiment analysis on Twitter data usi
 
 ## Features
 - Data loading and preprocessing
-- Class distribution visualization
-- Tokenization and quick predictions
+- Tokenization 
 - Model training and evaluation
 - Reproducible results with fixed seeds
 
@@ -14,7 +13,6 @@ This project provides a full pipeline for sentiment analysis on Twitter data usi
 - `data/` - Training and validation CSV files
 - `models/` - Saved model checkpoints
 - `outputs/` - Evaluation logs and confusion matrices
-- `notebooks/` - Jupyter notebooks for exploration
 - `run.py` - Entry point for the full pipeline
 
 ## Quick Start
